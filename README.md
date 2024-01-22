@@ -25,7 +25,13 @@ Here are some ideas to get you started:
     - Functional Programming ✨
     - Living in Brazil 🇧🇷
     - Games are my soul 🎮
-    - Will write a great open source lib someday 🚀
+    
+<br />
 
+Check out my React-Native library: https://github.com/rafaelbpa/react-native-secret-chamber 🚀​
 
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rafaelbpa@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelbpa/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaelbpa/)
+<br />
+
+Want to get in touch with me? Just do it! 👇​
+
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rafaelbpa@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelbpa/)
