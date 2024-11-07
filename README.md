@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     - React-Native and TypeScript fanboy 💜
     - Functional Programming ✨
     - Living in Brazil 🇧🇷
-    - Games are my soul 🎮
+    - I like to play chess ♟️
     
 <br />
 
